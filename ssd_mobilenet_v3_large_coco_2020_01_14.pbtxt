@@ -15,10 +15,10 @@ node {
           size: 1
         }
         dim {
-          size: 320
+          size: 1280
         }
         dim {
-          size: 320
+          size: 720
         }
         dim {
           size: 3
